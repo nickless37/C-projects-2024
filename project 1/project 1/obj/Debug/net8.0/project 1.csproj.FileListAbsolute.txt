@@ -1,0 +1,14 @@
+D:\visualstudio\2024 C# projects\project 1\project 1\bin\Debug\net8.0\project 1.exe
+D:\visualstudio\2024 C# projects\project 1\project 1\bin\Debug\net8.0\project 1.deps.json
+D:\visualstudio\2024 C# projects\project 1\project 1\bin\Debug\net8.0\project 1.runtimeconfig.json
+D:\visualstudio\2024 C# projects\project 1\project 1\bin\Debug\net8.0\project 1.dll
+D:\visualstudio\2024 C# projects\project 1\project 1\bin\Debug\net8.0\project 1.pdb
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\project 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\project 1.AssemblyInfoInputs.cache
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\project 1.AssemblyInfo.cs
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\project 1.csproj.CoreCompileInputs.cache
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\project 1.dll
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\refint\project 1.dll
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\project 1.pdb
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\project 1.genruntimeconfig.cache
+D:\visualstudio\2024 C# projects\project 1\project 1\obj\Debug\net8.0\ref\project 1.dll

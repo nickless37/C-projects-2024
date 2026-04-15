@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\bin\Debug\net8.0\Timohin practical part.exe
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\bin\Debug\net8.0\Timohin practical part.deps.json
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\bin\Debug\net8.0\Timohin practical part.runtimeconfig.json
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\bin\Debug\net8.0\Timohin practical part.dll
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\bin\Debug\net8.0\Timohin practical part.pdb
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\Timohin practical part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\Timohin practical part.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\Timohin practical part.AssemblyInfo.cs
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\Timohin practical part.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\Timohin practical part.dll
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\refint\Timohin practical part.dll
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\Timohin practical part.pdb
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\Timohin practical part.genruntimeconfig.cache
+C:\Users\Home\Desktop 2\Timohin practical part\Timohin practical part\obj\Debug\net8.0\ref\Timohin practical part.dll

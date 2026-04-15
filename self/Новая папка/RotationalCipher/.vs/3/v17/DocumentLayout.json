@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visualstudio\\2024 C# projects\\self\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A196332E-8508-4DF5-A613-956DA847CF7B}|3\\3.csproj|d:\\visualstudio\\2024 c# projects\\self\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\3\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A196332E-8508-4DF5-A613-956DA847CF7B}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visualstudio\\2024 C# projects\\self\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\3\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "D:\\visualstudio\\2024 C# projects\\self\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\3\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:30:58.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

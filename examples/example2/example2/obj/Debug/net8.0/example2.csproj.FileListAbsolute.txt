@@ -1,0 +1,14 @@
+D:\visualstudio\2024 C# projects\examples\example2\example2\bin\Debug\net8.0\example2.exe
+D:\visualstudio\2024 C# projects\examples\example2\example2\bin\Debug\net8.0\example2.deps.json
+D:\visualstudio\2024 C# projects\examples\example2\example2\bin\Debug\net8.0\example2.runtimeconfig.json
+D:\visualstudio\2024 C# projects\examples\example2\example2\bin\Debug\net8.0\example2.dll
+D:\visualstudio\2024 C# projects\examples\example2\example2\bin\Debug\net8.0\example2.pdb
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\example2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\example2.AssemblyInfoInputs.cache
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\example2.AssemblyInfo.cs
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\example2.csproj.CoreCompileInputs.cache
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\example2.dll
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\refint\example2.dll
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\example2.pdb
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\example2.genruntimeconfig.cache
+D:\visualstudio\2024 C# projects\examples\example2\example2\obj\Debug\net8.0\ref\example2.dll

@@ -1,0 +1,31 @@
+class Program
+{
+    static void Main()
+    {
+        Executing.Ex1 first = new Executing.Ex1();
+        Executing.Ex2 second = new Executing.Ex2();
+        Executing.Ex3 third = new Executing.Ex3();
+        Executing.Ex4 fourth = new Executing.Ex4();
+
+
+            //first.Execute();
+            //second.Execute();
+            //third.Execute();       
+            //fourth.Execute();
+
+    }
+}
+
+namespace Executing
+{
+	internal class Ex1
+    	{
+    	    public void Execute()
+        	{
+			Console.ForegroundColor = ConsoleColor.DarkYellow;
+			Console.WriteLine("Ex 1");
+			Console.ResetColor();
+		}
+	}
+
+}
